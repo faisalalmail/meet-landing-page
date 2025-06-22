@@ -57,9 +57,9 @@ I have done alot of work to come later and realise small details that I didnt no
 
 The biggest learning outcomes:
 
-1- using divs to display based on screen size `display:none;`.
-2- Having image be out of the div border `margin-block-start:value`
-3- understanding the proper way to use `background-blend-mode:value`
+1. using divs to display based on screen size `display:none;`.
+2. Having image be out of the div border `margin-block-start:value`
+3. understanding the proper way to use `background-blend-mode:value`
 
 
 
